@@ -12,8 +12,3 @@ By default, ```notify.sh``` requests 1hr job with 12 cpu and 1 gpu.
 bash start.sh
 bash notify.sh
 ```
-
-
-**License**:
-
-[MIT License](LICENSE.txt)
